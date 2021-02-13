@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bunyamingoymen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bunyamingoymen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14378327" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://fb.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://instagram.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bunyamingoymen" height="30" width="40" /></a>
