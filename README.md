@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/143783277" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="143783277" height="30" width="40" /></a>
 <a href="https://fb.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bunyamingoymen" height="30" width="40" /></a>
-<a href="https://instagram.com/bunyamin_goymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bunyamingoymen" height="30" width="40" /></a>
+<a href="https://instagram.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 </p>
 
