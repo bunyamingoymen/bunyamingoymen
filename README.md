@@ -6,7 +6,7 @@
 - 📫 How to reach me **bunyamingoymen@tutanota.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="color:red;">
+<p align="left" style="color=red;">
 <a href="https://twitter.com/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bunyamingoymen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/143783277" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="143783277" height="30" width="40" /></a>
