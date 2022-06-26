@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **bunyamingoymen@tutanota.com**
 
+- 🌱 I’m currently learning **Flutter**
+ 
+- 🌱 I will learn **Flutter**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bunyamingoymen" target="_blank"><img align="center" src="img/social/blue/twitter.svg" alt="bunyamingoymen" height="30" width="40" /></a>
