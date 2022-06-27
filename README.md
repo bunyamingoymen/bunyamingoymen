@@ -21,21 +21,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="img/Languages/c.svg" alt="c" width="40" height="40"/> </a>
- &nbsp;
-  <a href="https://www.java.com" target="_blank"> <img src="img/Languages/java.svg" alt="java" width="40" height="40"/> </a> 
- &nbsp;
-  <a href="https://laravel.com/" target="_blank"> <img src="img/Languages/laravel.svg" alt="bootstrap" width="35" height="35"/> </a>
- &nbsp;
-    <a href="https://flutter.dev/" target="_blank"> <img src="img/Languages/flutter.svg" alt="bootstrap" width="30" height="35"/> </a>
- &nbsp;
-  <a href="https://mariadb.org/" target="_blank"> <img src="img/Languages/mariadb.svg" alt="mariadb" width="40" height="40"/> </a>
- &nbsp;
-  <a href="https://www.postgresql.org" target="_blank"> <img src="img/Languages/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
-   &nbsp;
-    <a href="https://www.mysql.com/" target="_blank"> <img src="img/Languages/mysql.svg" alt="postgresql" width="40" height="40"/> </a>
-     &nbsp;
-    <a href="https://hadoop.apache.org/" target="_blank"> <img src="img/Languages/hadoop.svg" alt="bootstrap" width="40" height="40"/> </a>
-     &nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="img/Languages/c.svg" alt="c" height="40"/> </a>
+  &nbsp;
+  <a href="https://www.java.com" target="_blank"> <img src="img/Languages/java.svg" alt="java" height="40"/> </a> 
+  &nbsp;
+  <a href="https://laravel.com/" target="_blank"> <img src="img/Languages/laravel.svg" alt="bootstrap" height="40"/> </a>
+  &nbsp;
+  <a href="https://flutter.dev/" target="_blank"> <img src="img/Languages/flutter.svg" alt="bootstrap" height="40"/> </a>
+  &nbsp;
+  <a href="https://mariadb.org/" target="_blank"> <img src="img/Languages/mariadb.svg" alt="mariadb" height="40"/> </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank"> <img src="img/Languages/mysql.svg" alt="postgresql" height="40"/> </a>
+  &nbsp;
+  <a href="https://www.postgresql.org" target="_blank"> <img src="img/Languages/postgresql.svg" alt="postgresql" height="40"/> </a>
+  &nbsp;
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="img/Languages/hadoop.svg" alt="bootstrap" height="40"/> </a>
+  &nbsp;
 
 </p>
