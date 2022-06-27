@@ -27,7 +27,11 @@
   &nbsp;
   <a href="https://laravel.com/" target="_blank"> <img src="img/Languages/laravel.svg" alt="bootstrap" height="40"/> </a>
   &nbsp;
+  <a href="https://spring.io/" target="_blank"> <img src="img/Languages/spring.svg" alt="bootstrap" height="40"/> </a>
+  &nbsp;
   <a href="https://flutter.dev/" target="_blank"> <img src="img/Languages/flutter.svg" alt="bootstrap" height="40"/> </a>
+  &nbsp;
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="img/Languages/hadoop.svg" alt="bootstrap" height="40"/> </a>
   &nbsp;
   <a href="https://mariadb.org/" target="_blank"> <img src="img/Languages/mariadb.svg" alt="mariadb" height="40"/> </a>
   &nbsp;
@@ -35,8 +39,8 @@
   &nbsp;
   <a href="https://www.postgresql.org" target="_blank"> <img src="img/Languages/postgresql.svg" alt="postgresql" height="40"/> </a>
   &nbsp;
-  <a href="https://hadoop.apache.org/" target="_blank"> <img src="img/Languages/hadoop.svg" alt="bootstrap" height="40"/> </a>
-  &nbsp;
-  <a href="https://spring.io/" target="_blank"> <img src="img/Languages/spring.svg" alt="bootstrap" height="40"/> </a>
+  
+  
+  
 
 </p>
