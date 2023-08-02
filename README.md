@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **bunyamingoymen@tutanota.com**
 
-- 🌱 I’m currently learning **Flutter** , **Spring Boot** 
+- 🌱 I’m currently learning **Swift**
  
-- 🌱 I will learn **Flutter** , **Spring Boot**
+- 🌱 I will learn **Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,12 +26,6 @@
   <a href="https://www.java.com" target="_blank"> <img src="img/Languages/java.svg" alt="java" height="40"/> </a> 
   &nbsp;
   <a href="https://laravel.com/" target="_blank"> <img src="img/Languages/laravel.svg" alt="bootstrap" height="40"/> </a>
-  &nbsp;
-  <a href="https://spring.io/" target="_blank"> <img src="img/Languages/spring.svg" alt="bootstrap" height="40"/> </a>
-  &nbsp;
-  <a href="https://flutter.dev/" target="_blank"> <img src="img/Languages/flutter.svg" alt="bootstrap" height="40"/> </a>
-  &nbsp;
-  <a href="https://hadoop.apache.org/" target="_blank"> <img src="img/Languages/hadoop.svg" alt="bootstrap" height="40"/> </a>
   &nbsp;
   <a href="https://mariadb.org/" target="_blank"> <img src="img/Languages/mariadb.svg" alt="mariadb" height="40"/> </a>
   &nbsp;
