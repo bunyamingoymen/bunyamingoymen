@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bünyamin Göymen</h1>
 <h3 align="center">Back-End developer</h3>
 
-- 💬 Ask me about **on java, on javafx**
+- 💬 Ask me about **on JAVA**
 
 - 📫 How to reach me **bunyamingoymen@tutanota.com**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Spring**
  
-- 🌱 I will learn **Swift**
+- 🌱 I will learn **Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
