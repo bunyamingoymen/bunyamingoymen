@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/bunyamingoymen" target="_blank"><img align="center" src="img/social/blue/linkedin.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/143783277" target="_blank"><img align="center" src="img/social/blue/stackoverflow.svg" alt="143783277" height="30" width="40" /></a>
 <a href="https://fb.com/bunyamingoymen" target="_blank"><img align="center" src="img/social/blue/facebook.svg" alt="bunyamingoymen" height="30" width="40" /></a>
-<a href="https://instagram.com/bunyamingoymen" target="_blank"><img align="center" src="img/social/blue/instagram.svg" alt="bunyamingoymen" height="30" width="40" /></a>
+<a href="https://instagram.com/bunyamingoymn" target="_blank"><img align="center" src="img/social/blue/instagram.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bunyamingoymen" target="_blank"><img align="center" src="img/social/blue/hackerrank.svg" alt="bunyamingoymen" height="30" width="40" /></a>
 </p>
 
