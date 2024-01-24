@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bünyamin Göymen</h1>
 <h3 align="center">Back-End developer</h3>
 
-- 💬 Ask me about **on JAVA** or **on LARAVEL**
+- 💬 Ask me about **JAVA** or **LARAVEL**
 
-- 📫 How to reach me **bunyamingoymen@tutanota.com**
+- 📫 How to reach me: **bunyamingoymen@tutanota.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
