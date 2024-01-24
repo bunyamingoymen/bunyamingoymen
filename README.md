@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bünyamin Göymen</h1>
 <h3 align="center">Back-End developer</h3>
 
-- 💬 Ask me about **on JAVA** OR **on Laravel**
+- 💬 Ask me about **on JAVA** or **on LARAVEL**
 
 - 📫 How to reach me **bunyamingoymen@tutanota.com**
 
