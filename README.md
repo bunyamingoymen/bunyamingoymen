@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bünyamin Göymen</h1>
 <h3 align="center">Back-End developer</h3>
 
-- 💬 Ask me about **on JAVA**
+- 💬 Ask me about **on JAVA** OR **on Laravel**
 
 - 📫 How to reach me **bunyamingoymen@tutanota.com**
-
-- 🌱 I’m currently learning **Spring**
- 
-- 🌱 I will learn **Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +29,4 @@
   &nbsp;
   <a href="https://www.postgresql.org" target="_blank"> <img src="img/Languages/postgresql.svg" alt="postgresql" height="40"/> </a>
   &nbsp;
-  
-  
-  
-
 </p>
